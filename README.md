@@ -10,6 +10,7 @@ Convert a Google Classroom profile picture to its natural size
 		<td><img src="https://raw.githubusercontent.com/PasteLuengas/Gallery/main/ProfileImageIMG/before.png" width="100px"></td>
 	</tr>
 </table>
+
 # Download or use
 <ul>
 	<li><a href="https://pasteluengas.github.io/ProfileImage">Website</a> (in Spanish)</li>

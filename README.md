@@ -3,11 +3,11 @@ Convert a Google Classroom profile picture to its natural size
 <table>
 	<tr>
 		<td><h2>Before</h2></td>
-		<td><img src="https://raw.githubusercontent.com/PasteLuengas/Gallery/main/ProfileImageIMG/after.png" width="500px"></td>
+		<td><img src="https://raw.githubusercontent.com/PasteLuengas/Gallery/main/ProfileImageIMG/after.png" width="100px"></td>
 	</tr>
 	<tr>
 		<td><h2>After</h2></td>
-		<td><img src="https://raw.githubusercontent.com/PasteLuengas/Gallery/main/ProfileImageIMG/before.png" width="500px"></td>
+		<td><img src="https://raw.githubusercontent.com/PasteLuengas/Gallery/main/ProfileImageIMG/before.png" width="100px"></td>
 	</tr>
 </table>
 # Download or use

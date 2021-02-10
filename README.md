@@ -19,8 +19,8 @@ Convert a Google Classroom profile picture to its natural size
 </ul>
 
 #Usage
-<h3>Method #1<7h3>
+<h3>Method #1</h3>
 <ol>
 	<li>Copy de image link <br> </li>
-	<li>Paste te urlh<br> <br> </li>
+	<li>Paste the url <br> </li>
 </ol>

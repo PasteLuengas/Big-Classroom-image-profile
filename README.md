@@ -17,3 +17,10 @@ Convert a Google Classroom profile picture to its natural size
   	<li><a href="http://htmlpreview.github.io/?https://github.com/PasteLuengas/Big-Classroom-image-profile/blob/main/index.html">Alternative link</a> (in English)</li>
 	<li><a href="https://github.com/PasteLuengas/Big-Classroom-image-profile/archive/main.zip">Download .ZIP</a></li>
 </ul>
+
+#Usage
+<h3>Method #1<7h3>
+<ol>
+	<li>Copy de image link <br> </li>
+	<li>Paste te urlh<br> <br> </li>
+</ol>
